@@ -6,4 +6,5 @@ answer = nil
     puts "What is the spell that enacts levitation?"
     answer = gets.chomp
   end
+  puts "You passed the quiz!"
 end
